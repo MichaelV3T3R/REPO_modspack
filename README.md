@@ -35,7 +35,7 @@ In more detail:
 If you notice a mod isn't working or there's a new version of a mod but the repo info hasn't been updated yet, don't get upset—I'm probably already fixing that issue or looking for a suitable mod to replace the one incompatible with the latest R.E.P.O. version. Also, the `plugins/README.md` file will have all the mod info in two languages: ENG and RUS.
 Check the repo every 2 weeks if possible).
 
-P.s.: All mods are taken from this site: https://thunderstore.io/c/repo
+P.s.: All mods are taken from this website: https://thunderstore.io/c/repo/
 
 ---
 ---
@@ -78,4 +78,4 @@ P.s.: All mods are taken from this site: https://thunderstore.io/c/repo
 Если вы заметили, что какой-то мод не работает или же есть новая версия того или иного мода, а в репозитории ещё не обновилась информация, не спешите расстраиваться, скорее всего я уже работаю над исправлением той или иной ошибки или ищу подходящий мод, чтобы заменить несовместимый мод с последней версией R.E.P.O. Также в файле `plugins/README.md` будет представлена вся информация по модам на двух языках: ENG и RUS.
 По возможности проверяйте репозиторий каждые 2 недели).
 
-P.s.: Все моды взяты с этого сайта: https://thunderstore.io/c/repo
+P.s.: Все моды взяты с этого сайта: https://thunderstore.io/c/repo/
