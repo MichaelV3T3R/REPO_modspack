@@ -8,7 +8,7 @@ Link to the mod: https://thunderstore.io/c/repo/p/BepInEx/BepInExPack/
 
 ---
 
-# Установка (простая) [RUS]
+# Установка (инструкция) [RUS]
 
 1) Скачайте папку `BepInExPack`.
 2) Перенесите все файлы кроме `README.md` в корневую папку с игрой.
