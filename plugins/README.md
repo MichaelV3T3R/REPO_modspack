@@ -1,4 +1,4 @@
-# Folder information
+# Folder information (ENG)
 
 This folder only contains **active mods**. I check weekly for mod updates or new interesting mods.
 
@@ -50,7 +50,7 @@ If done correctly, the BepInEx console will show how many mods are loaded.
 
 ---
 
-# Информация о папке
+# Информация о папке (RUS)
 
 В этой папке хранятся только **активные** моды. Каждую неделю я проверяю на наличие обновлений для модов или на наличие новых интересных модов.
 В данный момент все моды обновлены до **последней версии** и **совместимы** с последней версией игры.
