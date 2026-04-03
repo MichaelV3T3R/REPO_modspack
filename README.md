@@ -36,7 +36,7 @@ If you notice a mod isn't working or there's a new version of a mod but the repo
 Check the repo every 2 weeks if possible).
 
 
----
+
 
 
 # Репозиторий модов для R.E.P.O. (RUS)
