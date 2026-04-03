@@ -35,9 +35,8 @@ In more detail:
 If you notice a mod isn't working or there's a new version of a mod but the repo info hasn't been updated yet, don't get upset—I'm probably already fixing that issue or looking for a suitable mod to replace the one incompatible with the latest R.E.P.O. version. Also, the `plugins/README.md` file will have all the mod info in two languages: ENG and RUS.
 Check the repo every 2 weeks if possible).
 
-
-
-
+---
+---
 
 # Репозиторий модов для R.E.P.O. (RUS)
 
