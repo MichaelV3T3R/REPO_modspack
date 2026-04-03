@@ -36,7 +36,7 @@ As mentioned, the **Mod** type splits into **AllPlayers** and **OnlyHost**.
 There's only one such mod in this folder:
 - `SharedUpgradesPlus.dll`
 
-All others must be installed by **all players**, or you won't be able to play in the same lobby!
+All others must be installed by **all players**, if you won't be able to play in the same lobby!
 
 ---
 
