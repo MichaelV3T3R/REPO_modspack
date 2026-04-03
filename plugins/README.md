@@ -43,7 +43,7 @@ All others must be installed by **all players**, or you won't be able to play in
 ## Installation (manual)
 
 1) Download the `plugins/` folder.
-2) Copy this folder and paste it here, replacing files: `Disk:\...\Steam\steamapps\common\REPO\BepInEx`.
+2) Copy this folder and paste it here, replacing files: `Disk:\...\Steam\steamapps\common\REPO\BepInEx`. (except for the file `README.md`)
 3) Launch the game.
 
 If done correctly, the BepInEx console will show how many mods are loaded.
@@ -88,7 +88,7 @@ If done correctly, the BepInEx console will show how many mods are loaded.
 ## Установка (инструкция)
 
 1) Скачайте папку `plugins/`.
-2) Скопируйте эту папку и перенесите по такому пути с заменой файлов: `Диск:\...\Steam\steamapps\common\REPO\BepInEx`.
+2) Скопируйте эту папку и перенесите по такому пути с заменой файлов: `Диск:\...\Steam\steamapps\common\REPO\BepInEx`. (кроме файла `README.md`)
 3) Запустите игру.
 
 Если вы сделали все правильно, то в консоли BepInEx вы увидите сколько модов у вас загружено.
