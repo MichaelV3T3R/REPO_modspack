@@ -26,7 +26,8 @@ In more detail:
     - `plugins/MoreHead/MoreHead.dll`
     - `plugins/WesleysEnemies/WesleysEnemies.dll`
     - and so on.
-  - `IncompatibleMods/` - a folder where mods from the `plugins/` folder that are incompatible with the latest R.E.P.O. version will be placed.
+    
+- `IncompatibleMods/` - a folder where mods from the `plugins/` folder that are incompatible with the latest R.E.P.O. version will be placed.
 
 ---
 
