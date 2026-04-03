@@ -34,7 +34,7 @@ The remaining mods are of the **Mod** type and depend on the required **ModLib**
 As mentioned, the **Mod** type splits into **AllPlayers** and **OnlyHost**.
 
 There's only one such mod in this folder:
-- `SharedUpgrades.dll`
+- `SharedUpgradesPlus.dll`
 
 All others must be installed by **all players**, or you won't be able to play in the same lobby!
 
@@ -81,7 +81,7 @@ If done correctly, the BepInEx console will show how many mods are loaded.
 Как я уже упомянул тип Mod разделяется на два типа: **AllPlayers** и **OnlyHost**.
 
 В этой папке существует только один такой мод:
-- `SharedUpgrades.dll`
+- `SharedUpgradesPlus.dll`
 
 Остальные **должны** быть у всех игроков, в противном случае вам не удастся сыграть в одном лобби!
 
